@@ -1,0 +1,17 @@
+{
+  "server": {
+    "listenPort": "8080",
+    "node": "1"
+  },
+  "apiToken": "lZ2w3leloRO2YP3uyxsV2jO4RcsgzhAg",
+  "environment": "development",
+  "baseUrl": "http://localhost:8080",
+  "database": {
+    "user": "postgres",
+    "password": "changeme",
+    "host": "localhost",
+    "port": "5434",
+    "name": "links",
+    "sslmode": "disable"
+  }
+}
